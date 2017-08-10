@@ -1,0 +1,31 @@
+---
+title: "assorted comments NOS"
+author: "Mara Averick"
+date: "8/10/2017"
+html_document:
+  keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**N.O.S.** = not otherwise specified
+
+**1.** I think the sections re. _What's in it for the author?_ and differences from CRAN would be great as bulleted lists. Alas, I wasn't really sure how best to chop up this one:  
+
+> You get feedback on your pacakge, maintain ownership, get support from rOpenSci members, potentially get a publication, publicity from it being under rOpenSci, and get to contribute something to rOpenSci. 
+
+_Why can't I just plain old edit this?_ Because I'm an awful, terrible, grammer-loving person and I can't tell what actually seems unnatural, and what's just me knowing random grammar rules (SAT tutoring = 💵).
+
+Basically, your list items should _all_ either use or _not_ use the verb in the intro in the same way (otherwise this becomes something known as a _zeugma_, which you totally don't need to know). So, the mixup here is that you use `get`, but then don't use it, then bring it back a few times...
+
+**2.**  I put a strikethrough, but basically, I'd just go straight to CRAN can't do everything. _"Here's what rOpenSci can do that CRAN cannot..."_
+
+**3.**  I could be underestimating the utility of this section, so feel free to disagree, _but_, I was thinking the bits re. GitHub ease etc. might be a good sidenote/footnote, so that you keep the narrative going.  
+
+>  Never used GitHub? Don't worry, creating account is easy, and the template is all there for you. You provide very straightforward information, and it's all there at once. Not like other journal submission processes, where you aren't always entirely clear what information you need ahead of time - gotchas like "what is the residential address of every co-author", or getting everyone to sign a copyright notice. All gone. This could be the future.
+
+**4.**  Another possible breakdown might be subheaders of _What I wanted to get..._, and _Bonus things I didn't expect, but got..._ (but worded like a normal actual human).
+
+**5.**  Visuals for the orientation change? (Ha it's in your note!)
